@@ -1,38 +1,39 @@
-
-#  Hacktiv8 Comprehensive Data Analytics Program  
+# Hacktiv8 Comprehensive Data Analytics Program  
 **by Tazqia Ranyanisha**
 
-Repository ini berisi kumpulan tugas, proyek, dan milestone dari **Hacktiv8 Comprehensive Data Analytics Program**. Program ini dirancang untuk membangun kompetensi analisis data secara menyeluruh — mulai dari pengambilan data mentah, pembersihan, analisis, visualisasi, hingga pemahaman teknis mengenai pipeline dan sistem data modern.
+This repository contains assignments, projects, and milestones from the **Hacktiv8 Comprehensive Data Analytics Program**. The program is designed to build end-to-end data analytics competencies — from raw data acquisition, cleaning, and analysis, to visualization and a technical understanding of modern data pipelines and systems.
 
 ---
 
 ## 📘 Program Overview  
-Hacktiv8 Comprehensive Data Analytics Program memberikan pengalaman *end-to-end* dalam mengelola data, mulai dari **data collection**, **data wrangling**, **statistical analysis**, hingga **data storytelling dan dashboarding**.  
-Setiap *phase* difokuskan pada peningkatan kemampuan teknis dan analitis yang dibutuhkan oleh praktisi data di industri.
+The Hacktiv8 Comprehensive Data Analytics Program provides hands-on *end-to-end* experience in managing data, covering **data collection**, **data wrangling**, **statistical analysis**, and **data storytelling and dashboarding**.  
+Each phase is focused on developing the technical and analytical skills required for data practitioners in the industry.
 
 ---
 
 ## 🚀 Learning Phases  
 
-| Phase | Tujuan Pembelajaran Utama |
-|--------|----------------------------|
-| **Phase 0** | - Menguasai pemrograman Python dan SQL untuk berbagai kasus<br>- Melakukan web scraping untuk memperoleh data |
-| **Phase 1** | - Menganalisis data untuk mendapatkan insight dan membuat inferensi<br>- Menggunakan spreadsheet sebagai alat analisis<br>- Membangun dashboard interaktif untuk visualisasi data |
-| **Phase 2** | - Mengoperasikan tools NoSQL<br>- Memahami konsep dasar ETL<br>- Melakukan penjadwalan data (data scheduling)<br>- Melakukan validasi dan kontrol kualitas data |
+| Phase | Key Learning Objectives |
+|--------|------------------------|
+| **Phase 0** | - Master Python and SQL for various use cases<br>- Perform web scraping to acquire data |
+| **Phase 1** | - Analyze data to extract insights and make inferences<br>- Use spreadsheets as analytical tools<br>- Build interactive dashboards for data visualization |
+| **Phase 2** | - Operate NoSQL tools<br>- Understand basic ETL concepts<br>- Perform data scheduling<br>- Conduct data validation and quality control |
 
 ---
 
 ## 🧩 Skills & Tools  
 
-| Kategori | Skill & Tools |
+| Category | Skills & Tools |
 |-----------|----------------|
-| **Data Engineering & Pipeline** | Data engineering, ETL pipeline, data modeling, query optimization, data scheduling |
+| **Data Engineering & Pipeline** | Data engineering, ETL pipelines, data modeling, query optimization, data scheduling |
 | **Programming & Databases** | Python (pandas, numpy, matplotlib), SQL (PostgreSQL), PySpark (big data processing), NoSQL tools |
-| **Analytics & Insight** | Data analysis, statistical inference, spreadsheet tools, benchmarking |
+| **Analytics & Insights** | Data analysis, statistical inference, spreadsheet tools, benchmarking |
 | **Visualization & Dashboarding** | Data visualization, dashboarding (Looker, Tableau) |
 | **Data Quality & Validation** | Data validation, cleaning, quality assurance |
-| **Industry Tools & Environment** | Git, GitHub, Jupyter Notebook, PgAdmin, Google Sheets, dan platform visualization lainnya |
+| **Industry Tools & Environment** | Git, GitHub, Jupyter Notebook, PgAdmin, Google Sheets, and other visualization platforms |
 
-## 🔗 Reference  
-Program resmi dapat diakses melalui situs:  
+---
+
+## 🔗 References  
+Official program can be accessed at:  
 👉 [Hacktiv8 Comprehensive Data Analytics Program](https://www.hacktiv8.com/data-analytics)
