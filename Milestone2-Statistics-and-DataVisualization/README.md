@@ -27,7 +27,7 @@ As a Data Analyst, I was tasked to work on a client project to analyze a dataset
 | 5 | **Data Extraction & Preparation**: Extracted data using SQL queries and cleaned it in Python (Jupyter Notebook). Renamed columns, handled missing values, and preprocessed dataset. | Cleaned dataset and SQL queries |
 | 6 | **Data Analysis & Visualization**: Created visualizations (bar, line, etc.) for each sub-problem. Conducted descriptive stats (central tendency, variance, distribution) and inferential stats (hypothesis testing). | Jupyter Notebook with analysis and visualizations |
 | 7 | **Dashboard Creation**: Built Tableau Public dashboard combining visualizations and statistical analysis. Includes at least 4 figures and interactive components. | Tableau Public dashboard URL |
-| 8 | **Reporting & Submission**: Linked dashboard in notebook and README, saved notebook as `P1M2_<my-name>.ipynb`, pushed to GitHub Classroom. | Submitted notebook and GitHub link |
+| 8 | **Reporting & Submission**: Linked dashboard in notebook and README, saved notebook , pushed to GitHub Classroom. | Submitted notebook and GitHub link |
 
 ---
 
